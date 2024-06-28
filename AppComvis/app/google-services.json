@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "891024409585",
+    "firebase_url": "https://embedded-3d80d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "embedded-3d80d",
+    "storage_bucket": "embedded-3d80d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891024409585:android:1c1287ea3e4299b08a7a50",
+        "android_client_info": {
+          "package_name": "com.example.embedded"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb8zvL44s1MN_4XMQ4THl5ezQE1GPp0_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
